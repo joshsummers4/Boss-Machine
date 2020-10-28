@@ -11,6 +11,8 @@ You can view a video demonstration of the final app here:
  The markdown processor does not support the video tag.
 </video>
 
+Node modules not included in uploaded code
+
 ## How to Begin
 
 To start, download the starting code for this project <a href="https://s3.amazonaws.com/codecademy-content/PRO/skill-paths/backend-javascript/projects/boss-machine/project-4-boss-machine-start.zip" target="_blank">here</a>. After downloading the zip folder, double click it to uncompress it and access the contents.
